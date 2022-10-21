@@ -20,7 +20,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="multiplayer-basic-main"
+config/name="multiplayer-basic-custom"
 run/main_scene="res://Lobby.tscn"
 config/icon="res://icon.png"
 
